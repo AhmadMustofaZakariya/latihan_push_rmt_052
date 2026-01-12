@@ -1,1 +1,3 @@
-print("Hello worl!")
+print('Hello worl!')
+
+print('Ini buku saya')
